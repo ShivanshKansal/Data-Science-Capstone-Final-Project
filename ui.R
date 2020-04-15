@@ -16,9 +16,9 @@ suppressWarnings(library(markdown))
 # Navigation Bar - Title, Author, Date
 shinyUI(navbarPage("Capstone: Course Final Project",
                    tabPanel("Predict the Next Word",
-                            HTML("<strong>Author: D Wenke </strong>"),
+                            HTML("<strong>Author: Shivansh Kansal </strong>"),
                             br(),
-                            HTML("<em>Date: 06/02/2018</em>"),
+                            HTML("<em>Date: 15/04/2020</em>"),
                             br(),
                             img(src = "Coursera.png"),
                   #title for left side of page

@@ -1,7 +1,7 @@
 ---
 title: "Data Science Course Capstone Project"
-author: "Diane Wenke"
-date: "June 4, 2018"
+author: "Shivansh Kansal"
+date: "April 15, 2020"
 output: ioslides_presentation
 ---
 
@@ -14,7 +14,7 @@ Use our new app...
 - App uses a subset of data from the three data sources (blogs, twitter & news)
 - App also uses the technology of Swiftkey
 
-Try it now...select it [here](https://dwenke.shinyapps.io/Final_Project_2018_06_03/)
+Try it now...select it [here](https://shivanshkansal.shinyapps.io/Data-Science-Capstone-Final-Project/)
 
 ## How to Use the Word Prediction App
 
@@ -36,7 +36,7 @@ Try it now...select it [here](https://dwenke.shinyapps.io/Final_Project_2018_06_
 - If n=3 is not found, then the app continues to check (n=2)
 - If n=2 is not found, then the app returns "No Match Found"
 
-- Code is available on [GitHub](https://github.com/DWenke/Data-Science-Capstone-Final-Project/)
+- Code is available on [GitHub](https://github.com/ShivanshKansal/Data-Science-Capstone-Final-Project)
 - Further work can include expanding both the number of data sources & number of n-grams
 Enjoy the app!
 

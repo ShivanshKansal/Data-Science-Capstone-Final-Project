@@ -8,7 +8,7 @@
 #
 
 #set working directory
-#setwd('/Users/Diane/Documents/Coursera_DS/final/Final_Project_2018');
+#setwd('/Users/Diane/Documents/Coursera_DS/final/Final_Project_2020');
 
 #install.packages("tm")
 #install.packages("stringr")
@@ -16,7 +16,7 @@
 
 ### Data Science Capstone : Course Project
 ### server.R file for the Shiny app
-### Github repo : https://github.com/DWenke/Data-Science-Capstone-Final-Project
+### Github repo : https://github.com/ShivanshKansal/Data-Science-Capstone-Final-Project
 suppressWarnings(library(tm))
 suppressWarnings(library(stringr))
 suppressWarnings(library(shiny))
